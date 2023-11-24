@@ -1,0 +1,7 @@
+D:\Visual Studio Project\Информационные технологии\Lab12_New\bin\Debug\Lab12_New.exe.config
+D:\Visual Studio Project\Информационные технологии\Lab12_New\bin\Debug\Lab12_New.exe
+D:\Visual Studio Project\Информационные технологии\Lab12_New\bin\Debug\Lab12_New.pdb
+D:\Visual Studio Project\Информационные технологии\Lab12_New\obj\Debug\Lab12_New.csproj.AssemblyReference.cache
+D:\Visual Studio Project\Информационные технологии\Lab12_New\obj\Debug\Lab12_New.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Информационные технологии\Lab12_New\obj\Debug\Lab12_New.exe
+D:\Visual Studio Project\Информационные технологии\Lab12_New\obj\Debug\Lab12_New.pdb
